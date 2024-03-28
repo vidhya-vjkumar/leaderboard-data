@@ -8,11 +8,11 @@ on:
 jobs:
   run-scraper:
     uses: gtech-mulearn/leaderboard/.github/workflows/scraper.yaml@main
-    secrets: inherit
     if: github.ref == 'refs/heads/main'
     permissions:
       issues: read
       pull-requests: read
       contents: write
+    secrets: inherit
     with:
       slack-eod-channel: ${{ vars.SLACK_EOD_CHANNEL }}
