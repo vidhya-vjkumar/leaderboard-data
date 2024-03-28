@@ -2,16 +2,17 @@ name: Scrape Data
 
 on:
   schedule:
-    - cron: 0 1 * * *
-    # Runs every 06:30 IST, update this do run at a different time.
-    #
-    # Must be an interval of 24 hours, as scraper fetches data of last 24 hours
-    # by default.
+    - cron: "0 1 * * *" # 6:30am IST
   workflow_dispatch:
+
 jobs:
   run-scraper:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GIT_ACCESS_TOKEN }}
+    uses: coronasafe/leaderboard/.github/workflows/scraper.yaml@main
+    if: github.ref == 'refs/heads/main'
+    permissions:
+      issues: read
+      pull-requests: read
+      contents: write
+    secrets: inherit
+    with:
+      slack-eod-channel: ${{ vars.SLACK_EOD_CHANNEL }}
