@@ -7,7 +7,8 @@ on:
 
 jobs:
   run-scraper:
-    uses: coronasafe/leaderboard/.github/workflows/scraper.yaml@main
+    uses: gtech-mulearn/leaderboard/.github/workflows/scraper.yaml@main
+    secrets: inherit
     if: github.ref == 'refs/heads/main'
     permissions:
       issues: read
