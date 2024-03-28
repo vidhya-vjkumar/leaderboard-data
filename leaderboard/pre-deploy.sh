@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-: "${LEADERBOARD_REPO:=https://github.com/coronasafe/leaderboard.git}"
+: "${LEADERBOARD_REPO:=https://github.com/gtech-mulearn/leaderboard.git}"
 
 git init
 git remote add --mirror=fetch upstream ${LEADERBOARD_REPO}
