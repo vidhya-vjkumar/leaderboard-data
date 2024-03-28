@@ -13,6 +13,5 @@ jobs:
       issues: read
       pull-requests: read
       contents: write
-    secrets: inherit
     with:
       slack-eod-channel: ${{ vars.SLACK_EOD_CHANNEL }}
