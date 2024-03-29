@@ -1,0 +1,43 @@
+{
+  "last_updated": "2024-03-28T16:09:27+00:00",
+  "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1089",
+      "time": "2024-03-28T16:09:27+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1089",
+      "text": "Old dev server",
+      "collaborated_with": [
+        "bijomathewjose",
+        "Jenin82"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1088",
+      "time": "2024-03-28T16:00:25+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1088",
+      "text": "Old dev",
+      "collaborated_with": [
+        "Jenin82"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1087",
+      "time": "2024-03-28T15:54:15+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1087",
+      "text": "Feat:New chaptership",
+      "turnaround_time": 778
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1087",
+      "time": "2024-03-28T15:41:18+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1087",
+      "text": "Feat:New chaptership"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

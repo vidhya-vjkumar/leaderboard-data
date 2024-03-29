@@ -1,0 +1,39 @@
+{
+  "last_updated": "2024-03-28T16:09:27+00:00",
+  "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1089",
+      "time": "2024-03-28T16:09:27+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1089",
+      "text": "Old dev server",
+      "collaborated_with": [
+        "AbhishekNSanthosh",
+        "Jenin82"
+      ]
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/gtech-mulearn/yipfrontend/issues/170",
+      "pr_link": "https://github.com/gtech-mulearn/yipfrontend/pull/172"
+    },
+    {
+      "issue_link": "https://github.com/gtech-mulearn/yipfrontend/issues/169",
+      "pr_link": "https://github.com/gtech-mulearn/yipfrontend/pull/172"
+    },
+    {
+      "issue_link": "https://github.com/gtech-mulearn/yipfrontend/issues/168",
+      "pr_link": "https://github.com/gtech-mulearn/yipfrontend/pull/171"
+    },
+    {
+      "issue_link": "https://github.com/gtech-mulearn/yipfrontend/issues/45",
+      "pr_link": "https://github.com/gtech-mulearn/yipfrontend/pull/107"
+    },
+    {
+      "issue_link": "https://github.com/gtech-mulearn/mulearn/issues/162",
+      "pr_link": "https://github.com/gtech-mulearn/mulearn/pull/165"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "last_updated": "2024-03-28T16:09:27+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1089",
+      "time": "2024-03-28T16:09:27+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1089",
+      "text": "Old dev server",
+      "turnaround_time": 435
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1089",
+      "time": "2024-03-28T16:09:27+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1089",
+      "text": "Old dev server",
+      "collaborated_with": [
+        "AbhishekNSanthosh",
+        "bijomathewjose"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1089",
+      "time": "2024-03-28T16:02:13+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1089",
+      "text": "Old dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1088",
+      "time": "2024-03-28T16:00:25+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1088",
+      "text": "Old dev",
+      "turnaround_time": 188
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1088",
+      "time": "2024-03-28T16:00:25+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1088",
+      "text": "Old dev",
+      "collaborated_with": [
+        "AbhishekNSanthosh"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1088",
+      "time": "2024-03-28T15:57:18+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1088",
+      "text": "Old dev"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-28T15:53:37+00:00",
+      "title": "gtech-mulearn/mulearn#1087",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1087#pullrequestreview-1966605946",
+      "text": "Feat:New chaptership"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/Top100-Beckn-Challenge/pull/2",
+      "title": "contributions",
+      "stale_for": 131,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}
