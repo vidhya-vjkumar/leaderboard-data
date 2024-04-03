@@ -1,0 +1,273 @@
+{
+  "last_updated": "2023-10-02T16:17:17Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#53",
+      "time": "2023-10-02T16:17:17Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/53",
+      "text": "jelanmathewjames@mulearn"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#53",
+      "time": "2023-10-02T16:23:18Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/53",
+      "text": "jelanmathewjames@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#528",
+      "time": "2023-11-17T11:19:58Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/528",
+      "text": "Update jelanmathewjames@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#528",
+      "time": "2023-11-23T14:26:53Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/528",
+      "text": "Update jelanmathewjames@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1396",
+      "time": "2023-10-22T14:32:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1396",
+      "text": "Feat: Implemented crud operations for affiliations and channels"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1396",
+      "time": "2023-10-29T09:59:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1396",
+      "text": "Feat: Implemented crud operations for affiliations and channels"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1499",
+      "time": "2023-11-02T02:33:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1499",
+      "text": "[FEAT] realtime global count updation. implementing websocket using django channels."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1499",
+      "time": "2023-11-03T03:04:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1499",
+      "text": "[FEAT] realtime global count updation. implementing websocket using django channels."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1507",
+      "time": "2023-11-03T15:00:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1507",
+      "text": "[MINOR FIX] channels put request partial=True for serializer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1507",
+      "time": "2023-11-03T17:11:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1507",
+      "text": "[MINOR FIX] channels put request partial=True for serializer"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1509",
+      "time": "2023-11-03T17:14:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1509",
+      "text": "Structuring ws endpoints"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1509",
+      "time": "2023-11-03T17:20:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1509",
+      "text": "Structuring ws endpoints"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1521",
+      "time": "2023-11-05T06:56:01Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1521",
+      "text": " [FEAT] ws group send for landing-stats"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1521",
+      "time": "2023-11-08T13:59:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1521",
+      "text": " [FEAT] ws group send for landing-stats"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1728",
+      "time": "2023-12-03T21:50:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1728",
+      "text": "[FEAT]: enable karma for adding socials."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1728",
+      "time": "2023-12-04T13:43:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1728",
+      "text": "[FEAT]: enable karma for adding socials."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1760",
+      "time": "2023-12-06T17:34:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1760",
+      "text": "[FIX] updated wallet on adding and removing socials"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1760",
+      "time": "2023-12-06T17:35:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1760",
+      "text": "[FIX] updated wallet on adding and removing socials"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1771",
+      "time": "2023-12-07T13:16:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1771",
+      "text": "[FIX] social karma log and handling \"\" and None"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1771",
+      "time": "2023-12-07T15:34:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1771",
+      "text": "[FIX] social karma log and handling \"\" and None"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1778",
+      "time": "2023-12-07T17:38:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1778",
+      "text": "Remove code for adding karma log entry on negative karma"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1778",
+      "time": "2023-12-07T17:50:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1778",
+      "text": "Remove code for adding karma log entry on negative karma"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1782",
+      "time": "2023-12-08T18:31:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1782",
+      "text": "[FEAT] inform updation of karma through discord on social update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1782",
+      "time": "2023-12-08T18:35:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1782",
+      "text": "[FEAT] inform updation of karma through discord on social update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1795",
+      "time": "2023-12-11T17:47:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1795",
+      "text": "[FIX] : deleting karma log entry on negative karma"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1795",
+      "time": "2023-12-11T17:53:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1795",
+      "text": "[FIX] : deleting karma log entry on negative karma"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1806",
+      "time": "2023-12-12T20:04:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1806",
+      "text": "[FIX]: not updating landing stats db signals"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1806",
+      "time": "2023-12-13T07:51:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1806",
+      "text": "[FIX]: not updating landing stats db signals"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1829",
+      "time": "2023-12-15T16:44:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1829",
+      "text": "setting value sended to webhook by karma_log id for socials"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1829",
+      "time": "2023-12-15T16:48:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1829",
+      "text": "setting value sended to webhook by karma_log id for socials"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1831",
+      "time": "2023-12-16T07:11:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1831",
+      "text": "alter scripts for awarding karma alter-1.43.py"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1831",
+      "time": "2023-12-23T14:13:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1831",
+      "text": "alter scripts for awarding karma alter-1.43.py"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1893",
+      "time": "2024-02-19T16:16:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1893",
+      "text": "adding org title to lc listing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1893",
+      "time": "2024-02-20T14:42:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1893",
+      "text": "adding org title to lc listing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1895",
+      "time": "2024-02-20T16:03:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1895",
+      "text": "fix assertion error"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1895",
+      "time": "2024-02-20T16:45:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1895",
+      "text": "fix assertion error"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1897",
+      "time": "2024-02-22T15:26:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1897",
+      "text": "making lc details public"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1897",
+      "time": "2024-02-22T20:26:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1897",
+      "text": "making lc details public"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

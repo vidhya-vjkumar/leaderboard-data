@@ -1,0 +1,28 @@
+{
+  "last_updated": "2022-05-13T18:49:16Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#106",
+      "time": "2022-05-13T18:49:16Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/106",
+      "text": "Exploring Github"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#185",
+      "time": "2022-05-15T10:19:07Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/185",
+      "text": "Book app TFP#3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#185",
+      "time": "2022-06-19T05:00:12Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/185",
+      "text": "Book app TFP#3"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

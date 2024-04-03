@@ -1,0 +1,35 @@
+{
+  "last_updated": "2023-10-02T12:44:00Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#50",
+      "time": "2023-10-02T12:44:00Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/50",
+      "text": "Create arjunkh@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#50",
+      "time": "2023-10-02T13:39:02Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/50",
+      "text": "Create arjunkh@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/bring-every-business-online#69",
+      "time": "2023-12-02T09:42:44Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/69",
+      "text": "add revathy-medicals"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/bring-every-business-online#69",
+      "time": "2023-12-02T13:13:36Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/69",
+      "text": "add revathy-medicals"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

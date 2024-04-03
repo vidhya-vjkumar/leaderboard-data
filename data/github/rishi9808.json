@@ -1,0 +1,28 @@
+{
+  "last_updated": "2023-10-03T18:26:15Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#82",
+      "time": "2023-10-03T18:26:15Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/82",
+      "text": "Patch 1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#82",
+      "time": "2023-10-03T19:25:07Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/82",
+      "text": "Patch 1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#554",
+      "time": "2023-11-17T11:51:55Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/554",
+      "text": "Update rishikeshkv-1@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

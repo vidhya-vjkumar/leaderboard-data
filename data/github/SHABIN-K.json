@@ -1,0 +1,42 @@
+{
+  "last_updated": "2023-10-20T11:25:59Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#283",
+      "time": "2023-10-20T11:25:59Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/283",
+      "text": "top-100"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#284",
+      "time": "2023-10-20T11:34:01Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/284",
+      "text": "top-100"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#284",
+      "time": "2023-10-21T04:47:12Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/284",
+      "text": "top-100"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1060",
+      "time": "2023-12-23T10:11:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1060",
+      "text": "fix (Account) :  updated heading"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1060",
+      "time": "2023-12-28T06:31:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1060",
+      "text": "fix (Account) :  updated heading"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
