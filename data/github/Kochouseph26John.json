@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-30T16:50:49+00:00",
+  "last_updated": "2024-04-02T18:17:53+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/Github-Enablment-Task#523",
+      "time": "2024-04-02T18:17:53+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/523#issuecomment-2032739627",
+      "text": "Sync the repo and redo the task"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/Github-Enablment-Task#519",
+      "time": "2024-04-02T12:59:12+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/519#issuecomment-2031978117",
+      "text": "Sync the repo and redo the task"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/leaderboard-data#2",
@@ -27,13 +41,13 @@
     {
       "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/2",
       "title": "Update Kochouseph26John.md",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/1",
       "title": "Update Kochouseph26John.md",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": []
     }
   ],
