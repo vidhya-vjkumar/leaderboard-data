@@ -1,0 +1,364 @@
+{
+  "last_updated": "2023-10-21T13:24:00Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#889",
+      "time": "2023-10-21T13:24:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/889",
+      "text": "fix(UrlShortener): Centered UrlShortener Modal."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#889",
+      "time": "2023-10-21T16:14:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/889",
+      "text": "fix(UrlShortener): Centered UrlShortener Modal."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#922",
+      "time": "2023-10-28T20:52:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/922",
+      "text": " feat(MuVoyage): add level 7 badge."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#922",
+      "time": "2023-10-28T20:57:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/922",
+      "text": " feat(MuVoyage): add level 7 badge."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#923",
+      "time": "2023-10-28T21:06:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/923",
+      "text": "fix(getPublicUserLevels): add '/' to endpoint."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#923",
+      "time": "2023-10-28T21:24:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/923",
+      "text": "fix(getPublicUserLevels): add '/' to endpoint."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#932",
+      "time": "2023-10-31T13:36:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/932",
+      "text": "feat(apiGateways): Added interceptor for trailing '/' ."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#932",
+      "time": "2023-10-31T13:38:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/932",
+      "text": "feat(apiGateways): Added interceptor for trailing '/' ."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#942",
+      "time": "2023-11-02T05:34:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/942",
+      "text": "feat(apiGateways.ts): Add error handling for 500 server error status ."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#942",
+      "time": "2023-11-02T12:41:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/942",
+      "text": "feat(apiGateways.ts): Add error handling for 500 server error status ."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#977",
+      "time": "2023-11-23T17:51:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/977",
+      "text": "fix(Tasks): Changed Column Order. "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#977",
+      "time": "2023-11-25T13:46:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/977",
+      "text": "fix(Tasks): Changed Column Order. "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#988",
+      "time": "2023-11-27T19:36:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/988",
+      "text": "feat(Tasks): Updated Tasks With new Modal Form."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#989",
+      "time": "2023-11-27T19:42:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/989",
+      "text": "feat(Tasks): Updated Tasks With new Modal Form. "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#989",
+      "time": "2023-11-29T00:13:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/989",
+      "text": "feat(Tasks): Updated Tasks With new Modal Form. "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#995",
+      "time": "2023-11-29T14:30:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/995",
+      "text": "feat(Tasks): Updated Tasks with new Modal Form."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#995",
+      "time": "2023-11-29T14:34:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/995",
+      "text": "feat(Tasks): Updated Tasks with new Modal Form."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#996",
+      "time": "2023-11-29T15:26:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/996",
+      "text": "fix(TaskApis): Added event to Api."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#996",
+      "time": "2023-11-29T19:40:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/996",
+      "text": "fix(TaskApis): Added event to Api."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1000",
+      "time": "2023-11-30T02:06:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1000",
+      "text": "fix(TaskForm): Added CheckBoxes. "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1000",
+      "time": "2023-11-30T12:19:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1000",
+      "text": "fix(TaskForm): Added CheckBoxes. "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1027",
+      "time": "2023-12-05T18:24:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1027",
+      "text": "feat(TaskType): Created Task Type Module."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1027",
+      "time": "2023-12-06T04:34:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1027",
+      "text": "feat(TaskType): Created Task Type Module."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1031",
+      "time": "2023-12-07T18:04:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1031",
+      "text": "fix(ManageRoles): fixed member not showing issue."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1031",
+      "time": "2023-12-08T13:03:01Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1031",
+      "text": "fix(ManageRoles): fixed member not showing issue."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1035",
+      "time": "2023-12-08T16:39:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1035",
+      "text": "feat(Events): Created Events module."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1035",
+      "time": "2023-12-09T09:04:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1035",
+      "text": "feat(Events): Created Events module."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1039",
+      "time": "2023-12-10T16:21:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1039",
+      "text": "feat(UserForm): Added Graduation Year into the form."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1039",
+      "time": "2023-12-11T13:47:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1039",
+      "text": "feat(UserForm): Added Graduation Year into the form."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1041",
+      "time": "2023-12-11T18:14:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1041",
+      "text": "fix(UserForm): fixed bugs in Form."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1041",
+      "time": "2023-12-11T18:28:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1041",
+      "text": "fix(UserForm): fixed bugs in Form."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1048",
+      "time": "2023-12-14T15:55:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1048",
+      "text": "fix(TaskForm): changed default for active toggle to true."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1048",
+      "time": "2023-12-14T18:02:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1048",
+      "text": "fix(TaskForm): changed default for active toggle to true."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1052",
+      "time": "2023-12-19T17:21:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1052",
+      "text": "feat(Table): Created function findModalDeleteHeading."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1052",
+      "time": "2023-12-21T10:40:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1052",
+      "text": "feat(Table): Created function findModalDeleteHeading."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1055",
+      "time": "2023-12-21T16:00:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1055",
+      "text": "refactor: Removed ManageUsers Files for edit and create."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1055",
+      "time": "2023-12-21T16:03:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1055",
+      "text": "refactor: Removed ManageUsers Files for edit and create."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1056",
+      "time": "2023-12-21T16:53:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1056",
+      "text": "fix(Profile): fixed slice issue."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1056",
+      "time": "2023-12-22T06:28:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1056",
+      "text": "fix(Profile): fixed slice issue."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1062",
+      "time": "2023-12-23T21:03:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1062",
+      "text": "fix(UserForm): fixed issue with schools not in orgs."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1062",
+      "time": "2023-12-28T06:32:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1062",
+      "text": "fix(UserForm): fixed issue with schools not in orgs."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1065",
+      "time": "2023-12-28T16:59:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1065",
+      "text": "feat(ManageRoles): Implemented Bulk Import."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1065",
+      "time": "2023-12-29T08:32:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1065",
+      "text": "feat(ManageRoles): Implemented Bulk Import."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1066",
+      "time": "2023-12-29T10:35:01Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1066",
+      "text": "feat: Implemented Dynamic type."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1066",
+      "time": "2024-02-18T15:13:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1066",
+      "text": "feat: Implemented Dynamic type."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1071",
+      "time": "2024-02-21T16:12:08Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1071",
+      "text": "fix: fixed org issue,report issue and made lc component."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1071",
+      "time": "2024-03-01T01:37:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1071",
+      "text": "fix: fixed org issue,report issue and made lc component."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/bring-every-business-online#54",
+      "time": "2023-10-29T07:19:24Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/54",
+      "text": "Add Kammath Dental Clinic to store list"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/bring-every-business-online#54",
+      "time": "2023-11-02T12:45:18Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/54",
+      "text": "Add Kammath Dental Clinic to store list"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/unnathi#33",
+      "time": "2024-03-12T16:25:53Z",
+      "link": "https://github.com/gtech-mulearn/unnathi/pull/33",
+      "text": "feat: Added Government Orders."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/unnathi#33",
+      "time": "2024-03-12T16:30:30Z",
+      "link": "https://github.com/gtech-mulearn/unnathi/pull/33",
+      "text": "feat: Added Government Orders."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

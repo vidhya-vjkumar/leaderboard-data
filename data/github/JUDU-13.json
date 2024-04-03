@@ -1,0 +1,77 @@
+{
+  "last_updated": "2023-11-02T09:16:56Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#1",
+      "time": "2023-11-02T09:16:56Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/1",
+      "text": "Rename Module2.md to Module1.2.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#1",
+      "time": "2023-11-02T09:17:06Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/1",
+      "text": "Rename Module2.md to Module1.2.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#2",
+      "time": "2023-11-02T10:45:50Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/2",
+      "text": "Judu 13 patch 1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#2",
+      "time": "2023-11-02T10:46:03Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/2",
+      "text": "Judu 13 patch 1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#3",
+      "time": "2023-11-27T06:34:57Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/3",
+      "text": "Create Prompt Engineering Part-1.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#3",
+      "time": "2023-11-27T06:35:05Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/3",
+      "text": "Create Prompt Engineering Part-1.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#4",
+      "time": "2023-11-27T08:47:31Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/4",
+      "text": "Add files via upload"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#4",
+      "time": "2023-11-27T08:47:41Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/4",
+      "text": "Add files via upload"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#5",
+      "time": "2023-12-16T16:33:57Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/5",
+      "text": "Add files via upload"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#5",
+      "time": "2023-12-16T16:34:04Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/5",
+      "text": "Add files via upload"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,42 @@
+{
+  "last_updated": "2023-10-05T20:19:26Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#134",
+      "time": "2023-10-05T20:19:26Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/134",
+      "text": "arfazkhan@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#134",
+      "time": "2023-10-05T20:25:52Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/134",
+      "text": "arfazkhan@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#562",
+      "time": "2023-11-17T12:12:47Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/562",
+      "text": "Update arfazkhan@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#562",
+      "time": "2023-11-23T19:46:16Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/562",
+      "text": "Update arfazkhan@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top100-OpenAi-Challenge#30",
+      "time": "2023-11-16T18:22:15Z",
+      "link": "https://github.com/gtech-mulearn/Top100-OpenAi-Challenge/pull/30",
+      "text": "feat(setup) add basic setup"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

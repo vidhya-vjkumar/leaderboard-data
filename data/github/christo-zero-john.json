@@ -1,0 +1,28 @@
+{
+  "last_updated": "2023-05-04T15:03:33Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#369",
+      "time": "2023-05-04T15:03:33Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/369",
+      "text": "Merge pull request created"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#472",
+      "time": "2024-01-31T07:40:39Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/472",
+      "text": " merging Develop "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#473",
+      "time": "2024-01-31T08:59:15Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/473",
+      "text": "Added step-by-step instructions on how to do this task using github desktop."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,63 @@
+{
+  "last_updated": "2023-10-08T04:24:47Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#165",
+      "time": "2023-10-08T04:24:47Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/165",
+      "text": "Create mishal@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#165",
+      "time": "2023-10-08T04:53:14Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/165",
+      "text": "Create mishal@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#929",
+      "time": "2023-10-30T07:30:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/929",
+      "text": "New Mulearn Logo with Gtech Initiative text"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#929",
+      "time": "2023-10-30T12:33:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/929",
+      "text": "New Mulearn Logo with Gtech Initiative text"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1500",
+      "time": "2023-11-02T04:30:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1500",
+      "text": "Creating User Share Profile Qrcode API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1500",
+      "time": "2023-11-10T16:50:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1500",
+      "text": "Creating User Share Profile Qrcode API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1603",
+      "time": "2023-11-24T10:14:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1603",
+      "text": "Removed hardcoded image path to Environment Variables"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1603",
+      "time": "2023-11-24T17:08:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1603",
+      "text": "Removed hardcoded image path to Environment Variables"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
