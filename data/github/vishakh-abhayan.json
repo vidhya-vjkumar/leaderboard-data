@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-31T19:29:56+00:00",
+  "last_updated": "2024-04-03T08:06:16+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-03T08:06:16+00:00",
+      "title": "gtech-mulearn/leaderboard-data#3",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/3#pullrequestreview-1975912241",
+      "text": "Create EkalavyanS.md"
+    },
     {
       "type": "pr_collaborated",
       "title": "gtech-mulearn/Top-100-Coders#588",

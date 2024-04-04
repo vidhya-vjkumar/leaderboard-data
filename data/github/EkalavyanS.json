@@ -1,6 +1,21 @@
 {
-  "last_updated": "2023-10-26T11:17:59Z",
+  "last_updated": "2024-04-03T08:06:26+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/leaderboard-data#3",
+      "time": "2024-04-03T08:06:26+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/3",
+      "text": "Create EkalavyanS.md",
+      "turnaround_time": 459
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/leaderboard-data#3",
+      "time": "2024-04-03T07:58:47+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/3",
+      "text": "Create EkalavyanS.md"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/Top-100-Coders#342",
