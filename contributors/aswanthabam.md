@@ -2,11 +2,11 @@
 name: Aswanth Vc
 title: Contributor
 github: aswanthabam
-twitter: ""
-linkedin: ""
+twitter: "_aswanthvc"
+linkedin: "aswanth-vc"
 slack: ""
 joining_date: ""
 role : contributor
 ---
 
-Still waiting for this
+Crafting the digital realm of my dreams
