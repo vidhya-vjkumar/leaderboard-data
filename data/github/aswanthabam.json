@@ -1,6 +1,13 @@
 {
-  "last_updated": "2023-10-04T11:00:25Z",
+  "last_updated": "2024-04-04T06:33:59+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/leaderboard-data#5",
+      "time": "2024-04-04T06:33:59+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/5",
+      "text": "Update aswanthabam.md"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/Top-100-Coders#98",
@@ -653,6 +660,13 @@
       "text": "refactor (ig) : changed enum function names"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/5",
+      "title": "Update aswanthabam.md",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
