@@ -1,12 +1,12 @@
 ---
 name: Aswanth Vc
-title: Contributor
+title: Intern
 github: aswanthabam
-twitter: ""
-linkedin: ""
+twitter: "_aswanthvc"
+linkedin: "aswanth-vc"
 slack: ""
 joining_date: ""
-role : contributor
+role : intern
 ---
 
-Still waiting for this
+Crafting the digital realm of my dreams
