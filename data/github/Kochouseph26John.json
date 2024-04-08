@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-04-02T18:17:53+00:00",
+  "last_updated": "2024-04-07T20:02:34+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/Github-Enablment-Task#532",
+      "time": "2024-04-07T20:02:34+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/532#issuecomment-2041585521",
+      "text": "Remove the unwanted file ie, 'list_all_books.txt' which is not inside the folder"
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/Github-Enablment-Task#523",
@@ -286,13 +293,13 @@
     {
       "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/2",
       "title": "Update Kochouseph26John.md",
-      "stale_for": 3,
+      "stale_for": 8,
       "labels": []
     },
     {
       "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/1",
       "title": "Update Kochouseph26John.md",
-      "stale_for": 3,
+      "stale_for": 8,
       "labels": []
     }
   ],
