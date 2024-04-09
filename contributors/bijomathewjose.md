@@ -1,12 +1,11 @@
 ---
 name: Bijo Mathew Jose
-title: Contributor
+title: Frontend Web Developer
 github: bijomathewjose
-twitter: ""
-linkedin: ""
+twitter: bijomathewjose
+linkedin: bijomathewjose
 slack: ""
 joining_date: ""
 role : contributor
 ---
-
-Still waiting for this
+A frontend web developer learning trying to specializing in react and javascript/typescript.
