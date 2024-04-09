@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-04-07T15:53:11+00:00",
+  "last_updated": "2024-04-08T18:15:26+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#538",
+      "time": "2024-04-08T18:15:26+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/538",
+      "text": "My first PR"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/Github-Enablment-Task#531",
@@ -25,8 +32,8 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/531",
-      "title": "Develop PR",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/538",
+      "title": "My first PR",
       "stale_for": 0,
       "labels": []
     }
