@@ -2,8 +2,8 @@
 name: Bijo Mathew Jose
 title: Contributor
 github: bijomathewjose
-twitter: ""
-linkedin: ""
+twitter: bijomathewjose
+linkedin: bijomathewjose
 slack: ""
 joining_date: ""
 role : contributor
