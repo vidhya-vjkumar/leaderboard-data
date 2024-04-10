@@ -1,6 +1,21 @@
 {
-  "last_updated": "2024-03-28T16:09:27+00:00",
+  "last_updated": "2024-04-09T20:27:30+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/leaderboard-data#6",
+      "time": "2024-04-09T20:27:30+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/6",
+      "text": "Update bijomathewjose.md",
+      "turnaround_time": 7177
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/leaderboard-data#6",
+      "time": "2024-04-09T18:27:53+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/6",
+      "text": "Update bijomathewjose.md"
+    },
     {
       "type": "pr_collaborated",
       "title": "gtech-mulearn/mulearn#1089",
@@ -1452,14 +1467,14 @@
       "title": "gtech-mulearn/yipfrontend#43",
       "time": "2023-05-25T16:19:30Z",
       "link": "https://github.com/gtech-mulearn/yipfrontend/pull/43",
-      "text": "Code Base Restructuring 👍 "
+      "text": "Code Base Restructuring \ud83d\udc4d "
     },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/yipfrontend#43",
       "time": "2023-05-25T16:59:07Z",
       "link": "https://github.com/gtech-mulearn/yipfrontend/pull/43",
-      "text": "Code Base Restructuring 👍 "
+      "text": "Code Base Restructuring \ud83d\udc4d "
     },
     {
       "type": "pr_opened",

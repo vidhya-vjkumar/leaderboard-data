@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-04-06T16:20:30+00:00",
+  "last_updated": "2024-04-09T20:27:23+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-09T20:27:23+00:00",
+      "title": "gtech-mulearn/leaderboard-data#6",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/6#pullrequestreview-1990087919",
+      "text": "Update bijomathewjose.md"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-04-06T16:20:30+00:00",
@@ -804,7 +811,7 @@
     {
       "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/3",
       "title": "test psr",
-      "stale_for": 2,
+      "stale_for": 5,
       "labels": []
     }
   ],
