@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-04-09T15:33:52+00:00",
+  "last_updated": "2024-04-10T06:34:41+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#544",
+      "time": "2024-04-10T06:34:41+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/544",
+      "text": "Develop"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/Github-Enablment-Task#542",
@@ -11,7 +18,7 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/542",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/544",
       "title": "Develop",
       "stale_for": 0,
       "labels": []

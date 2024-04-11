@@ -1,6 +1,21 @@
 {
-  "last_updated": "2023-11-02T09:16:56Z",
+  "last_updated": "2024-04-10T03:38:24+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#7",
+      "time": "2024-04-10T03:38:24+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/7",
+      "text": "Update Task-2.md",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#7",
+      "time": "2024-04-10T03:38:19+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/7",
+      "text": "Update Task-2.md"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/Pathway-AI-Bootcamp#1",
