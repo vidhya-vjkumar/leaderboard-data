@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-04-11T05:13:14+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#546",
+      "time": "2024-04-11T05:13:14+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/546",
+      "text": "Did the tasks specified and opened PR"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/546",
+      "title": "Did the tasks specified and opened PR",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

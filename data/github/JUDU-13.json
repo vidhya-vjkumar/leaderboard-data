@@ -1,6 +1,51 @@
 {
-  "last_updated": "2024-04-10T03:38:24+00:00",
+  "last_updated": "2024-04-11T08:11:39+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#10",
+      "time": "2024-04-11T08:11:39+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/10",
+      "text": "Update Task-2.md",
+      "turnaround_time": 10
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#10",
+      "time": "2024-04-11T08:11:30+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/10",
+      "text": "Update Task-2.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#9",
+      "time": "2024-04-11T07:54:17+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/9",
+      "text": "Update Task-2.md",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#9",
+      "time": "2024-04-11T07:54:12+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/9",
+      "text": "Update Task-2.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#8",
+      "time": "2024-04-11T01:57:05+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/8",
+      "text": "Update Task-3.md",
+      "turnaround_time": 53
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#8",
+      "time": "2024-04-11T01:56:12+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/8",
+      "text": "Update Task-3.md"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/Pathway-AI-Bootcamp#7",

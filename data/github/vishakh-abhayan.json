@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-04-09T20:27:23+00:00",
+  "last_updated": "2024-04-11T18:19:01+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-11T18:19:01+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#9",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/9#pullrequestreview-1994948143",
+      "text": "add bibinvincent@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-11T17:35:15+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#7",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/7#pullrequestreview-1994790064",
+      "text": "Create afnaayshujaffin@mulearn.md"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-04-09T20:27:23+00:00",
@@ -807,13 +821,6 @@
       "text": "feat():SEO discrption and OG content,fix():Leaderboard dp"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/3",
-      "title": "test psr",
-      "stale_for": 5,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
