@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-04-13T06:00:00+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#38",
+      "time": "2024-04-13T06:00:00+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/38",
+      "text": "Update TEMPLATE.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#35",
+      "time": "2024-04-13T04:30:56+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/35",
+      "text": "Create susmithav@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

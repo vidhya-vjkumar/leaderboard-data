@@ -1,6 +1,58 @@
 {
-  "last_updated": "2024-04-12T03:44:51+00:00",
+  "last_updated": "2024-04-13T11:58:19+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/leaderboard-data#7",
+      "time": "2024-04-13T11:58:19+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/7",
+      "text": "Update JUDU-13.md",
+      "turnaround_time": 1069
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#19",
+      "time": "2024-04-13T11:55:50+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/19",
+      "text": "Rename Basics Of LLM Part-2.md to Basic Of LLM Part-2.md",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#19",
+      "time": "2024-04-13T11:55:45+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/19",
+      "text": "Rename Basics Of LLM Part-2.md to Basic Of LLM Part-2.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/leaderboard-data#7",
+      "time": "2024-04-13T11:40:31+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/7",
+      "text": "Update JUDU-13.md"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#11",
+      "time": "2024-04-13T11:27:00+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/issues/11",
+      "text": "Broken Link in Basic Of LLM Part-2.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#15",
+      "time": "2024-04-13T11:26:08+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/15",
+      "text": "Update Basics Of LLM Part-2.md",
+      "turnaround_time": 5
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#15",
+      "time": "2024-04-13T11:26:03+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/15",
+      "text": "Update Basics Of LLM Part-2.md"
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/Pathway-AI-Bootcamp#11",

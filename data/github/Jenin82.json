@@ -1,6 +1,21 @@
 {
-  "last_updated": "2024-04-03T16:09:33+00:00",
+  "last_updated": "2024-04-13T06:47:23+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1090",
+      "time": "2024-04-13T06:47:23+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1090",
+      "text": "Dev server",
+      "turnaround_time": 4373
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1090",
+      "time": "2024-04-13T05:34:31+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1090",
+      "text": "Dev server"
+    },
     {
       "type": "issue_opened",
       "title": "gtech-mulearn/mulearnbackend#1901",
@@ -3126,13 +3141,6 @@
       "text": "hotfix(): Filter btn cursor pointer"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/Top100-Beckn-Challenge/pull/2",
-      "title": "contributions",
-      "stale_for": 137,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
