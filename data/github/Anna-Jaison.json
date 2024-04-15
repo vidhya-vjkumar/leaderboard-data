@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-04-14T16:14:11+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#64",
+      "time": "2024-04-14T16:14:11+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/64",
+      "text": "Created annajaison@mulearn"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/64",
+      "title": "Created annajaison@mulearn",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}
