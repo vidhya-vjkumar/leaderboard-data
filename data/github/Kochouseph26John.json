@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-04-09T21:51:11+00:00",
+  "last_updated": "2024-04-15T21:15:45+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/Github-Enablment-Task#576",
+      "time": "2024-04-15T21:15:45+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/576#issuecomment-2057822879",
+      "text": "Follow the steps properly"
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/Github-Enablment-Task#543",
@@ -321,13 +328,13 @@
     {
       "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/2",
       "title": "Update Kochouseph26John.md",
-      "stale_for": 10,
+      "stale_for": 16,
       "labels": []
     },
     {
       "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/1",
       "title": "Update Kochouseph26John.md",
-      "stale_for": 10,
+      "stale_for": 16,
       "labels": []
     }
   ],

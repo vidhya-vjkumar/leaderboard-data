@@ -1,6 +1,14 @@
 {
-  "last_updated": "2024-04-14T16:47:04+00:00",
+  "last_updated": "2024-04-15T04:08:39+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#66",
+      "time": "2024-04-15T04:08:39+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/66",
+      "text": "Create nikhiljose-1@mulearn.md",
+      "turnaround_time": 40896
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/IEEE-LAUNCHPAD#66",
@@ -23,13 +31,6 @@
       "text": "Update TEMPLATE.md"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/66",
-      "title": "Create nikhiljose-1@mulearn.md",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

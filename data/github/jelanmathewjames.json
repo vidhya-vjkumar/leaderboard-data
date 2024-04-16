@@ -1,6 +1,141 @@
 {
-  "last_updated": "2024-04-13T06:16:40+00:00",
+  "last_updated": "2024-04-15T19:42:24+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1911",
+      "time": "2024-04-15T19:42:24+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1911",
+      "text": "Setting leaderboard to top 30",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1911",
+      "time": "2024-04-15T19:42:18+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1911",
+      "text": "Setting leaderboard to top 30"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1910",
+      "time": "2024-04-15T19:41:12+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1910",
+      "text": "Setting leaderboard to top 30",
+      "turnaround_time": 9
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1910",
+      "time": "2024-04-15T19:41:03+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1910",
+      "text": "Setting leaderboard to top 30"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1909",
+      "time": "2024-04-15T19:40:28+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1909",
+      "text": "Setting leaderboard to top 30",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1909",
+      "time": "2024-04-15T19:40:21+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1909",
+      "text": "Setting leaderboard to top 30"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1908",
+      "time": "2024-04-15T19:32:49+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1908",
+      "text": "Duplicate results in leaderboard ",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1908",
+      "time": "2024-04-15T19:32:43+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1908",
+      "text": "Duplicate results in leaderboard "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1907",
+      "time": "2024-04-15T19:30:58+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1907",
+      "text": "Duplicate results in leaderboard ",
+      "turnaround_time": 18
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1907",
+      "time": "2024-04-15T19:30:41+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1907",
+      "text": "Duplicate results in leaderboard "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1906",
+      "time": "2024-04-15T19:28:16+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1906",
+      "text": "avoiding duplicate results in leaderboard",
+      "turnaround_time": 24
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1906",
+      "time": "2024-04-15T19:27:52+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1906",
+      "text": "avoiding duplicate results in leaderboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1905",
+      "time": "2024-04-15T19:10:14+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1905",
+      "text": "Launchpad leaderboard api",
+      "turnaround_time": 9
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1905",
+      "time": "2024-04-15T19:10:05+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1905",
+      "text": "Launchpad leaderboard api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1904",
+      "time": "2024-04-15T19:05:19+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1904",
+      "text": "Launchpad api",
+      "turnaround_time": 11
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1904",
+      "time": "2024-04-15T19:05:09+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1904",
+      "text": "Launchpad api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1903",
+      "time": "2024-04-15T18:56:14+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1903",
+      "text": "Launchpad apis",
+      "turnaround_time": 11
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1903",
+      "time": "2024-04-15T18:56:03+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1903",
+      "text": "Launchpad apis"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/mulearnbackend#1902",
@@ -275,6 +410,13 @@
       "text": "making lc details public"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1902",
+      "title": "Production",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
