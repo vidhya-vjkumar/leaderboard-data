@@ -1,6 +1,31 @@
 {
-  "last_updated": "2024-04-13T06:47:23+00:00",
+  "last_updated": "2024-04-16T12:28:53+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1093",
+      "time": "2024-04-16T12:28:53+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1093",
+      "text": "Old dev",
+      "collaborated_with": [
+        "Jenin82"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1092",
+      "time": "2024-04-16T12:27:53+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1092",
+      "text": "feat(Launchpad): Added Launchpad Page.",
+      "turnaround_time": 34203
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1092",
+      "time": "2024-04-16T02:57:49+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1092",
+      "text": "feat(Launchpad): Added Launchpad Page."
+    },
     {
       "type": "pr_collaborated",
       "title": "gtech-mulearn/mulearn#1090",

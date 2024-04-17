@@ -1,6 +1,21 @@
 {
-  "last_updated": "2024-04-14T07:14:12+00:00",
+  "last_updated": "2024-04-16T16:10:09+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#92",
+      "time": "2024-04-16T16:10:09+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/92",
+      "text": "sreelakshmip-4@mulearn",
+      "turnaround_time": 40509
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#92",
+      "time": "2024-04-16T04:55:00+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/92",
+      "text": "sreelakshmip-4@mulearn"
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/IEEE-LAUNCHPAD#60",
@@ -23,13 +38,6 @@
       "text": "adding book management"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/60",
-      "title": "sreelakshmip-4@mulearn",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

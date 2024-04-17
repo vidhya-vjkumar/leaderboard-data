@@ -1,6 +1,21 @@
 {
-  "last_updated": "2023-11-12T05:52:00Z",
+  "last_updated": "2024-04-16T14:06:55+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#93",
+      "time": "2024-04-16T14:06:55+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/93",
+      "text": "Create yadhukrishnanp@mulearn.md",
+      "turnaround_time": 30457
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#93",
+      "time": "2024-04-16T05:39:19+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/93",
+      "text": "Create yadhukrishnanp@mulearn.md"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/bring-every-business-online#56",
