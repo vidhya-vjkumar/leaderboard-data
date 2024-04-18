@@ -1,6 +1,31 @@
 {
-  "last_updated": "2024-04-16T12:28:53+00:00",
+  "last_updated": "2024-04-17T14:02:39+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1913",
+      "time": "2024-04-17T14:02:39+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1913",
+      "text": "LC public api",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1913",
+      "time": "2024-04-17T14:02:39+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1913",
+      "text": "LC public api",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1913",
+      "time": "2024-04-17T14:02:33+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1913",
+      "text": "LC public api"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/mulearn#1093",
@@ -3177,7 +3202,7 @@
     {
       "link": "https://github.com/gtech-mulearn/Top100-Beckn-Challenge/pull/2",
       "title": "contributions",
-      "stale_for": 150,
+      "stale_for": 151,
       "labels": []
     }
   ],

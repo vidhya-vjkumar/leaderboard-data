@@ -1,6 +1,13 @@
 {
-  "last_updated": "2022-05-13T11:05:16Z",
+  "last_updated": "2024-04-17T18:31:24+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#106",
+      "time": "2024-04-17T18:31:24+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/106",
+      "text": "Create bhagyaunnikrishnan@mulearn.md"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/Github-Enablment-Task#51",
@@ -30,6 +37,13 @@
       "text": "Bhagya added Bhagya Store"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/106",
+      "title": "Create bhagyaunnikrishnan@mulearn.md",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

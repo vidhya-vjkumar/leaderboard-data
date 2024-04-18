@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-04-17T14:55:24+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#105",
+      "time": "2024-04-17T14:55:24+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/105",
+      "text": "sarababu@mulearn.md"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/105",
+      "title": "sarababu@mulearn.md",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

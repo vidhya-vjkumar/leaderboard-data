@@ -1,6 +1,21 @@
 {
-  "last_updated": "2024-04-16T18:26:47+00:00",
+  "last_updated": "2024-04-17T07:13:02+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#102",
+      "time": "2024-04-17T07:13:02+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/102",
+      "text": "Rename jobinjose-4.md to jobinjose-4@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#97",
+      "time": "2024-04-17T05:31:10+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/97",
+      "text": "jobinjose-4@mulearn.md",
+      "turnaround_time": 39863
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/IEEE-LAUNCHPAD#97",
@@ -9,13 +24,6 @@
       "text": "jobinjose-4@mulearn.md"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/97",
-      "title": "jobinjose-4@mulearn.md",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
