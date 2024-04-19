@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-04-17T05:31:20+00:00",
+  "last_updated": "2024-04-18T15:37:52+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-18T15:37:52+00:00",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#20",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/20#pullrequestreview-2009258047",
+      "text": "Re-Structured, fixed broken links and more"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-04-17T05:31:20+00:00",
