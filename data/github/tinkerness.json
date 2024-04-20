@@ -1,6 +1,14 @@
 {
-  "last_updated": "2024-04-18T17:32:20+00:00",
+  "last_updated": "2024-04-19T15:10:47+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#120",
+      "time": "2024-04-19T15:10:47+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/120",
+      "text": "anittasiby@mulearn.md",
+      "turnaround_time": 77908
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/IEEE-LAUNCHPAD#120",
@@ -23,13 +31,6 @@
       "text": "Create anittasiby@mulearn.md"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/120",
-      "title": "anittasiby@mulearn.md",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
