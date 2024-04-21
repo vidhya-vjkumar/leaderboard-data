@@ -1,0 +1,22 @@
+{
+  "last_updated": "2024-04-20T17:58:31+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#581",
+      "time": "2024-04-20T17:58:31+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/581",
+      "text": "Add feature for author to add and list books",
+      "turnaround_time": 27986
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#581",
+      "time": "2024-04-20T10:12:05+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/581",
+      "text": "Add feature for author to add and list books"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

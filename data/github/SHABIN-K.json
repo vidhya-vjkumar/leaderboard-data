@@ -1,6 +1,25 @@
 {
-  "last_updated": "2024-04-13T10:23:55+00:00",
+  "last_updated": "2024-04-20T13:40:54+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1094",
+      "time": "2024-04-20T13:40:54+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1094",
+      "text": "merge dev to dev-server",
+      "collaborated_with": [
+        "Jenin82",
+        "irfanpa005"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1091",
+      "time": "2024-04-20T13:36:35+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1091",
+      "text": "feat: Add 'Copy to Clipboard' functionality to the profile page",
+      "turnaround_time": 25681
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/IEEE-LAUNCHPAD#37",

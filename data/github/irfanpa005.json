@@ -1,6 +1,25 @@
 {
-  "last_updated": "2023-10-21T12:41:52Z",
+  "last_updated": "2024-04-20T13:40:54+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1094",
+      "time": "2024-04-20T13:40:54+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1094",
+      "text": "merge dev to dev-server",
+      "collaborated_with": [
+        "SHABIN-K",
+        "Jenin82"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1067",
+      "time": "2024-04-20T13:36:58+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1067",
+      "text": "feat(DIscord Moderation) : Table format and pagination added.",
+      "turnaround_time": 9085
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/mulearn#888",

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-04-13T14:35:44+00:00",
+  "last_updated": "2024-04-20T18:04:47+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/Github-Enablment-Task#582",
+      "time": "2024-04-20T18:04:47+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/582#issuecomment-2067744509",
+      "text": "add the add_book_feature file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#582",
+      "time": "2024-04-20T18:03:25+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/582",
+      "text": "Revert \"Add feature for author to add and list books\""
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-04-13T14:35:44+00:00",
@@ -30,6 +44,13 @@
       "text": "top 100"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/582",
+      "title": "Revert \"Add feature for author to add and list books\"",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
