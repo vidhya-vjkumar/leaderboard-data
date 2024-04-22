@@ -1,6 +1,13 @@
 {
-  "last_updated": "2023-10-03T08:51:44Z",
+  "last_updated": "2024-04-21T08:02:05+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#164",
+      "time": "2024-04-21T08:02:05+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/164",
+      "text": "alankanil@mulearn"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/Top-100-Coders#64",
@@ -674,6 +681,13 @@
       "text": "docs():updated readme file and contribute file"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/164",
+      "title": "alankanil@mulearn",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

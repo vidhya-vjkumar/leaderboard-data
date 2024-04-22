@@ -1,6 +1,14 @@
 {
-  "last_updated": "2024-04-20T16:03:52+00:00",
+  "last_updated": "2024-04-21T07:38:40+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#154",
+      "time": "2024-04-21T07:38:40+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/154",
+      "text": "nalinjyothy@mulearn",
+      "turnaround_time": 56088
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/IEEE-LAUNCHPAD#154",
@@ -24,13 +32,6 @@
       "text": "Added feature to create a book and list all books"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/154",
-      "title": "nalinjyothy@mulearn",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
