@@ -1,6 +1,28 @@
 {
-  "last_updated": "2024-04-21T09:00:14+00:00",
+  "last_updated": "2024-04-24T05:35:49+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#195",
+      "time": "2024-04-24T05:35:49+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/195",
+      "text": "Create aaronanniyan@mulearn",
+      "turnaround_time": 2364
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#195",
+      "time": "2024-04-24T05:35:09+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/195#issuecomment-2074068830",
+      "text": "> please add `.md ` as extension\r\n\r\ndone!"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#195",
+      "time": "2024-04-24T04:56:26+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/195",
+      "text": "Create aaronanniyan@mulearn"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/Github-Enablment-Task#583",
@@ -24,13 +46,6 @@
       "text": "Add feature for author to add and list books"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/583",
-      "title": "added \"add_book_feature\"",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
