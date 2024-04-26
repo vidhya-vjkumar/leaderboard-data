@@ -1,6 +1,21 @@
 {
-  "last_updated": "2023-10-24T08:38:14Z",
+  "last_updated": "2024-04-25T07:52:57+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#221",
+      "time": "2024-04-25T07:52:57+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/221",
+      "text": "aaronplaju@mulearn.md",
+      "turnaround_time": 5889
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#221",
+      "time": "2024-04-25T06:14:49+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/221",
+      "text": "aaronplaju@mulearn.md"
+    },
     {
       "type": "pr_opened",
       "title": "gtech-mulearn/Top-100-Coders#309",

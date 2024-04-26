@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-04-20T15:51:43+00:00",
+  "last_updated": "2024-04-25T17:16:10+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-25T17:16:10+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#230",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/230#pullrequestreview-2023136640",
+      "text": "muhammedanazil@muleran"
+    },
     {
       "type": "comment_created",
       "title": "gtech-mulearn/IEEE-LAUNCHPAD#35",

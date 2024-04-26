@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-04-03T08:06:26+00:00",
+  "last_updated": "2024-04-25T10:03:45+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1099",
+      "time": "2024-04-25T10:03:45+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1099",
+      "text": "patch(): Implemented the feature"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1098",
+      "time": "2024-04-25T10:00:14+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1098",
+      "text": "Menu changes"
+    },
     {
       "type": "pr_merged",
       "title": "gtech-mulearn/leaderboard-data#3",
