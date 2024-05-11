@@ -1,5 +1,5 @@
 ---
-name: vidhya-vjkumar
+name: Vidhya
 title: Contributor
 github: vidhya-vjkumar
 twitter: ""
